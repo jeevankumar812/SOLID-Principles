@@ -1,7 +1,7 @@
 # Single Responsibility Principle (SRP)
 
 <p align="center">
-  <img src="./image.png" alt="Single Responsibility Principle (SRP)" width="100%">
+  <img src="./srp.png" alt="Single Responsibility Principle (SRP)" width="100%">
 </p>
 
 ## 📖 Definition
