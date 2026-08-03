@@ -133,15 +133,4 @@ High-level modules should depend on abstractions instead of concrete implementat
 
 ---
 
-# 👨‍💻 Author
 
-**Jeevan Kumar**
-
-- GitHub: https://github.com/jeevankumar812
-- LinkedIn: https://www.linkedin.com/in/jeevankumar812/
-
----
-
-# 📄 License
-
-Licensed under the **MIT License**.
