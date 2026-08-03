@@ -1,4 +1,3 @@
-# SOLID Principles
 
 <p align="center">
   <img src="./assets/solid.png" alt="SOLID Principles" width="100%">
