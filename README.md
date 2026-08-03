@@ -3,13 +3,13 @@
   <img src="./assets/solid.png" alt="SOLID Principles" width="100%">
 </p>
 
-<p align="center">
+<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![OOP](https://img.shields.io/badge/Object-Oriented%20Programming-blue?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/Software%20Design-SOLID-success?style=for-the-badge)
 
-</p>
+</div>
 
 ---
 
